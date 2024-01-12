@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-** A Full-Stack Developer at Ogilvy Africa, A WPP UK Company **
+**A Full-Stack Developer at Ogilvy Africa, A WPP UK Company**
 
 - I use daily: ```.php```, ```.js```, ```.css```, ```.html```, ```.java```
 - I develop ```Laravel```, ```Flutter``` apps
