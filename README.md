@@ -5,4 +5,4 @@
 - I use daily: ```.php```, ```.js```, ```.css```, ```.html``` & ```.java```
 - I develop apps in ```Laravel``` & ```Flutter```
 - I develop APIs using ```REST``` & ```GraphQL```
-- Ping me about flutter, laravel, development
+- Ping me about flutter, laravel, DevOps, Azure
