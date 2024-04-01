@@ -36,4 +36,4 @@
 
 ![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenicfelix&show_icons=true&theme=radical) <br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=fenicfelix&theme=dark&mode=weekly)](https://git.io/streak-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenicfelix&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenicfelix&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br/>
