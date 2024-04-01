@@ -34,7 +34,5 @@
   
 <br/>
 
-![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenicfelix&show_icons=true&theme=radical) <br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=fenicfelix&theme=dark&mode=weekly)](https://git.io/streak-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenicfelix&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br/>
-[![Felix Ogucha's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14950720)]([https://stackoverflow.com/users/3840208/dhanushka](https://stackoverflow.com/users/14950720/felix-ogucha))
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fenicfelix&show_icons=true&theme=radical) <br/>
+[![My GitHub Streak](https://streak-stats.demolab.com?user=fenicfelix&theme=dark&mode=weekly)](https://git.io/streak-stats) <br/>
