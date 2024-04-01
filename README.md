@@ -34,4 +34,7 @@
   
 <br/>
 
-![Felix Ogucha's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenicfelix&count_private=true)
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenicfelix&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fenicfelix)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenicfelix)
+[![Felix's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fenicfelix)](https://github.com/anuraghazra/github-readme-stats)
