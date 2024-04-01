@@ -27,7 +27,7 @@
 
 
 ### My Recent Projects
-- [Naivas Ecommerce](https://naivas.online?utm_source=GitHub) - Naivas e-commerce platform.
+- [Naivas E-commerce](https://naivas.online?utm_source=GitHub) - New Naivas e-commerce platform.
 
   
 <br/>
