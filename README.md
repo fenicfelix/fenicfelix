@@ -5,4 +5,31 @@
 - I use daily: ```.php```, ```.js```, ```.css```, ```.html``` & ```.java```
 - I develop apps in ```Laravel``` & ```Flutter```
 - I develop APIs using ```REST``` & ```GraphQL```
-- Ping me about flutter, laravel, DevOps, Azure
+- Ping me about flutter, laravel, DevOps, Azure, AWS
+
+---
+
+### Languages and Tools
+
+<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />  
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<br />
+
+### My Open Source Projects
+- [Flutter Smart Edge Alert](https://github.com/fenicfelix/smart_edge_alert)
+- [Flutter Permify](https://github.com/fenicfelix/flutter_permify)
+
+
+### My Recent Projects
+- [Naivas Ecommerce](https://naivas.online?utm_source=GitHub) - Naivas e-commerce platform.
+
+  
+<br/>
+
+![Felix Ogucha's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenicfelix&count_private=true)
