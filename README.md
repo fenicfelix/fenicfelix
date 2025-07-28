@@ -26,6 +26,7 @@
 ### My Open Source Projects
 - [Flutter Smart Edge Alert](https://github.com/fenicfelix/smart_edge_alert)
 - [Flutter Permify](https://github.com/fenicfelix/flutter_permify)
+- [![pub package](https://img.shields.io/pub/v/smart_progress_dialog.svg)](https://pub.dev/packages/smart_progress_dialog)
 
 
 ### My Recent Projects
